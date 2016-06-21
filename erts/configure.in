@@ -4832,6 +4832,7 @@ AC_OUTPUT(
   Makefile:Makefile.in
   ../make/$host/otp.mk:../make/otp.mk.in
   ../make/$host/otp_ded.mk:../make/otp_ded.mk.in
+  ../make/make_emakefile:../make/make_emakefile.in
 dnl
 dnl The ones below should be moved to their respective lib
 dnl
